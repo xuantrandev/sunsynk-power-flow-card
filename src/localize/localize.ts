@@ -9,6 +9,7 @@ import * as ru from './languages/ru.json';
 import * as cs from './languages/cs.json';
 import * as it from './languages/it.json';
 import * as ca from './languages/ca.json';
+import * as vi from './languages/vi.json';
 import * as sk from './languages/sk.json';
 import * as pt_br from './languages/pt-br.json';
 import * as sv from './languages/sv.json';
