@@ -2,8 +2,8 @@
   "common": {
     "description": "Một thẻ Home Assistant để mô phỏng luồng năng lượng Sunsynk được hiển thị trên màn hình Inverter",
     "version": "Phiên bản",
-    "runtime_to": "THỜI GIAN CHẠY ĐẾN",
-    "battery_floating": "PIN ĐANG NỔI",
+    "runtime_to": "THỜI GIAN XẢ ĐẾN",
+    "battery_floating": "PIN ĐANG THẢ NỔI",
     "charge": "SẠC",
     "to": "ĐẾN",
     "daily_load": "TẢI HÔM NAY",
