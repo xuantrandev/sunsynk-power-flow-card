@@ -32,6 +32,7 @@ const languages: any = {
     pt_BR: pt_br,
     sv: sv,
     uk: uk,
+    vi: vi,
 };
 
 export function localize(string: string, search = '', replace = '') {
