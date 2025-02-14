@@ -9,11 +9,11 @@ import * as ru from './languages/ru.json';
 import * as cs from './languages/cs.json';
 import * as it from './languages/it.json';
 import * as ca from './languages/ca.json';
+import * as vi from './languages/vi.json';
 import * as sk from './languages/sk.json';
 import * as pt_br from './languages/pt-br.json';
 import * as sv from './languages/sv.json';
 import * as uk from './languages/uk.json';
-import * as sl from './languages/sl.json';
 import {globalData} from '../helpers/globals';
 
 const languages: any = {
@@ -32,7 +32,7 @@ const languages: any = {
     pt_BR: pt_br,
     sv: sv,
     uk: uk,
-    sl: sl,
+    vi: vi,
 };
 
 export function localize(string: string, search = '', replace = '') {
